@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "63ad9158dd58f42d5bba0554"
+  },
+  "categoryName": "Men",
+  "subCategoryName": "Trousers",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672319320914"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672319320914"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad91acdd58f42d5bba055d"
+  },
+  "categoryName": "Women",
+  "subCategoryName": "Sunglasses",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672319404331"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672319404331"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "63ad9146dd58f42d5bba0550"
+  },
+  "categoryName": "Men",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672319302673"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672319302673"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad91a2dd58f42d5bba0559"
+  },
+  "categoryName": "Women",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672319394427"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672319394427"
+    }
+  },
+  "__v": 0
+}]
